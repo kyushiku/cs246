@@ -1,5 +1,6 @@
 class World	{	
 	public static void main(String args[]){
-	system.out.println("Hello GitHub World");
+	System.out.println("Hello GitHub World");
+	System.out.println("Testing...");
 	}	
 }	
